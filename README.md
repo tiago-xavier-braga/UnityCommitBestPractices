@@ -32,6 +32,13 @@ Originalmente, tínhamos 7 diretrizes que serviam como um guia para escrever com
 4. Utilize o modo imperativo na linha de assunto.
 5. Use o corpo do commit para explicar o quê e por quê. Não explique como fazer, pois isso está no código.
 
+**Exemplo:**
+```
+feat-code: altera o código de salto para que possa modificar parâmetros direto no inspetor
+
+O código foi alterado para que a equipe possa configurar os parâmetros de salto direto no inspetor.
+```
+
 ### Conventional Commits para commits semânticos
 
 As especificações são definidas pelo [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), mas fiz algumas alterações para ficarem visualmente mais adequadas no Plastic SCM.
