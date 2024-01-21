@@ -57,8 +57,8 @@ O assunto da mensagem deve ser prefixado com um tipo que resuma o tipo de modifi
 
 1. **feat-code**: usado quando uma nova funcionalidade que envolve a criação de código é adicionada ao projeto.
 2. **fix-bug**: usado para corrigir um bug no código existente.
-3. **scene-modify-create**: usado quando cenas são modificadas ou criadas.
-4. **asset-modify-create**: usado para alterações ou criação de ativos no projeto, como modelos 3D, áudios, meshes, timelines, prefabs, etc.
+3. **scene**: usado quando cenas são modificadas ou criadas.
+4. **asset**: usado para alterações ou criação de ativos no projeto, como modelos 3D, áudios, meshes, timelines, prefabs, etc.
 5. **maintenance-update**: usado para tarefas de manutenção e atualização do projeto.
 6. **add-external-assets**: usado quando ativos de terceiros são adicionados ao projeto.
 7. **build**: Usado quando uma nova compilação do projeto é realizada.
