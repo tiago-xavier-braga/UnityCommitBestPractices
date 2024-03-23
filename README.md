@@ -55,7 +55,7 @@ As especificações são definidas pelo [Conventional Commits](https://www.conve
 
 O assunto da mensagem deve ser prefixado com um tipo que resuma o tipo de modificação que está sendo feita. Abaixo, listei alguns tipos:
 
-1. **feat**: usado quando uma nova funcionalidade que envolve a criação de código é adicionada ao projeto.
+1. **feat-code**: usado quando uma nova funcionalidade que envolve a criação de código é adicionada ao projeto.
 2. **fix**: usado para corrigir um bug no código existente.
 3. **scene**: usado quando cenas são modificadas ou criadas.
 4. **asset**: usado para alterações ou criação de ativos no projeto, como modelos 3D, áudios, meshes, timelines, prefabs, etc.
